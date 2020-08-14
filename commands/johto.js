@@ -1,0 +1,8 @@
+module.exports = {
+	name: 'johto',
+	description: 'Johto',
+	execute(message, args) {
+		message.channel.send('I have very mixed feelings after playing through the game. Admittedly, I have not gotten past Kanto yet, but so far, Johto was weird. \n\nThe mechanics have not aged too well and neither has the design. And you are going to notice that. Nearly instantly, in fact. But, once you get over it, the game becomes really, really good. \n\nThe most surprising thing for me, personally, was how much freedom I got. Not once did I feel like my decisions were impacted by the game, the dialogue, the story, or anything like that. I genuinely felt like I was on my own adventure and that was really immersive. I felt like I was making my decisions for myself. When I went to the Bellsprout tower I felt like I went there because I wanted to, not because I, in fact, had to. \n\nI really liked how the evil team was handled. They did not have much impact on the storyline, they did not care about the legendary Pokemon, they were just there doing their evil things. And it was not often that I would encounter them, either. It was way simpler than in new Pokemon games and  I loved that. \n\nI definitely did not like the choice of Pokemon I got, though. Mareep was not available so I could not really use any electric types, and do not even get me started on how most of the evolution stones are locked in Kanto. Like, why can I not have a Poliwrath until I become the strongest trainer in the region? \n\nI do not really have any more thoughts on Crystal right now as I just finished the game, I will make sure, however to include anything else that pops into my head over time.')
+
+	},
+};
