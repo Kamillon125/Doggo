@@ -4,7 +4,7 @@ module.exports = {
 	execute(message, args) {
 		const Discord = require('discord.js');
 	const bot = new Discord.Client();
-	const token = 'NzM0NDQ3NzQwNzA4MTkyMzE2.XxR3mg.D9QYymN5JmOKzGaBdchooSt-JDc';
+	const token = 'the-botrs-token';
 
 	const prefix = '^';
 
